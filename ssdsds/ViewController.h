@@ -12,6 +12,7 @@
 {
     
     NSString *str;
+    NSString *stp;
     
 }
 
