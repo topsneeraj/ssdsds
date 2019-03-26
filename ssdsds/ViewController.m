@@ -9,6 +9,11 @@
 #import "ViewController.h"
 
 @interface ViewController ()
+{
+    
+    NSArray *arr;
+    
+}
 
 @end
 
